@@ -134,7 +134,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Within PHP Manager...
+Within PHP Manager... I also reloaded the IIS webserver by performing a stop and start.
 </p>
 <br />
 
