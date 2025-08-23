@@ -155,12 +155,13 @@ Within PHP Manager...
 
 </p>
 <p>
-Copied the upload folder to the wwwroot folder and renamed it osTicket.
+Copied the upload folder to the wwwroot folder and renamed it osTicket. Reloaded IIS again.
 </p>
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1833" height="926" alt="image" src="https://github.com/user-attachments/assets/9fd0142e-85ac-4b32-8977-ca7ad535857e" />
+
 
 
 </p>
