@@ -171,12 +171,14 @@ Within PHP Manager...
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1815" height="926" alt="image" src="https://github.com/user-attachments/assets/a513fc58-9fe9-44cb-badc-74051bc63522" />
+
 
 
 </p>
 <p>
-Within PHP Manager...
+In the PHP manager in IIS, I enabled php_imap.dll, php_intl.dll, and php_opcache.dll. I then refreshed the web brower with the osTicket installer and it checked the remaining necessary boxes for the installer to work properly.
+
 </p>
 <br />
 
