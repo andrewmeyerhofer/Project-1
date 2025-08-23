@@ -14,7 +14,7 @@ In this project, I installed and setup the open-source ticketing system osTicket
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11 24H2</b> 
+- Windows 11 (24H2)</b> 
 
 <h2>List of Prerequisites</h2>
 
