@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Installation and Setup</h1>
-In this project, I installed and setup the open-source ticketing system osTicket. This project was done within a virtual machine I created in Azure.<br />
+In this project, I installed and setup the open-source ticketing system osTicket. This project was done within an Azure Virtual Machine.<br />
 
 
 <h2>Environments and Technologies Used</h2>
