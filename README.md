@@ -138,6 +138,67 @@ Within PHP Manager... I also reloaded the IIS webserver by performing a stop and
 </p>
 <br />
 
+<p><img width="1288" height="707" alt="image" src="https://github.com/user-attachments/assets/297d0d97-0eac-4759-bcd1-66a0894f0607" />
+
+
+
+</p>
+<p>
+Within PHP Manager...
+</p>
+<br />
+
+<p>
+<img width="1395" height="686" alt="image" src="https://github.com/user-attachments/assets/5d6b2c35-c39e-49a7-9745-e577b4228e7b" />
+
+
+
+</p>
+<p>
+Copied the upload folder to the wwwroot folder and renamed it osTicket.
+</p>
+<br />
+
+<p>
+<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+
+
+</p>
+<p>
+Within PHP Manager...
+</p>
+<br />
+
+<p>
+<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+
+
+</p>
+<p>
+Within PHP Manager...
+</p>
+<br />
+
+<p>
+<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+
+
+</p>
+<p>
+Within PHP Manager...
+</p>
+<br />
+
+<p>
+<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+
+
+</p>
+<p>
+Within PHP Manager...
+</p>
+<br />
+
 <p>
 <img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
 
