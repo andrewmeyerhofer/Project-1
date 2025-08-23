@@ -205,18 +205,20 @@ Within the properties of the ost-config.php file, I went to security and clicked
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1197" height="797" alt="image" src="https://github.com/user-attachments/assets/7de97417-558d-48a8-b18c-313d5510ca9a" />
+
 
 
 
 </p>
 <p>
-Within PHP manager... 
+I then entered some basic information for the help desk and Admin User.
 </p>
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1407" height="745" alt="image" src="https://github.com/user-attachments/assets/ca15dd1c-b623-42f0-ba41-aaaef95de0f0" />
+
 
 
 </p>
@@ -226,7 +228,19 @@ Within PHP Manager...
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1163" height="732" alt="image" src="https://github.com/user-attachments/assets/57084953-8c88-4db1-ad69-330d19a07a38" />
+
+
+
+</p>
+<p>
+Created new database named osTicket.
+</p>
+<br />
+
+<p>
+<img width="1086" height="471" alt="image" src="https://github.com/user-attachments/assets/cbfb9580-5e4d-4bf6-ad87-6f2581067fac" />
+
 
 
 </p>
@@ -236,7 +250,8 @@ Within PHP Manager...
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1077" height="781" alt="image" src="https://github.com/user-attachments/assets/4ed22eeb-bb7a-402d-b586-7a3abb7bd837" />
+
 
 
 </p>
