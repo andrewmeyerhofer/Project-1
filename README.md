@@ -200,12 +200,13 @@ Here I changed the name of the ost-sampleconfig.php file within the osTicket fil
 
 </p>
 <p>
-Within the properties of the ost-config.php file, I went to security and clicked "disable inheritance." 
+Within the properties of the ost-config.php file, I went to security and clicked "disable inheritance."
 </p>
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1552" height="787" alt="image" src="https://github.com/user-attachments/assets/c48304ac-a493-4a31-83d1-5d8e79b01955" />
+
 
 
 </p>
