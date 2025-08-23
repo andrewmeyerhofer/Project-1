@@ -194,24 +194,24 @@ Here I changed the name of the ost-sampleconfig.php file within the osTicket fil
 <br />
 
 <p>
-<img width="1208" height="714" alt="Screenshot 2025-08-23 143000" src="https://github.com/user-attachments/assets/1cb78633-99d5-4ca9-b7ea-749cd9e6dfa0" />
-
-
-
-</p>
-<p>
-Within the properties of the ost-config.php file, I went to security and clicked "disable inheritance."
-</p>
-<br />
-
-<p>
 <img width="1552" height="787" alt="image" src="https://github.com/user-attachments/assets/c48304ac-a493-4a31-83d1-5d8e79b01955" />
 
 
 
 </p>
 <p>
-I then added new permissions so that any user will have access and full control (just for the sake of this project, not smart in real life).
+Within the properties of the ost-config.php file, I went to security and clicked "disable inheritance." I then added new permissions so that any user will have access and full control (just for the sake of this project, not smart in real life).
+</p>
+<br />
+
+<p>
+<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+
+
+
+</p>
+<p>
+Within PHP manager... 
 </p>
 <br />
 
