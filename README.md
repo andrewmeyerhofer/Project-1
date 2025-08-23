@@ -183,22 +183,13 @@ In the PHP manager in IIS, I enabled php_imap.dll, php_intl.dll, and php_opcache
 <br />
 
 <p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+<img width="1147" height="698" alt="image" src="https://github.com/user-attachments/assets/c4547066-d209-4b4a-8efd-1fae5de12a64" />
 
-
-</p>
-<p>
-Within PHP Manager...
-</p>
-<br />
-
-<p>
-<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
 
 
 </p>
 <p>
-Within PHP Manager...
+Here I changed the name of the ost-sampleconfig.php file within the osTicket file to ost-config.php.
 </p>
 <br />
 
@@ -208,7 +199,17 @@ Within PHP Manager...
 
 </p>
 <p>
-Within PHP Manager...
+Within the properties of the ost-config.php file, I went to security and clicked "disable inheritance." 
+</p>
+<br />
+
+<p>
+<img width="1416" height="717" alt="image" src="https://github.com/user-attachments/assets/06076da7-117f-463a-90e6-6bb08610773e" />
+
+
+</p>
+<p>
+I then added new permissions so that any user will have access and full control (just for the sake of this project, not smart in real life).
 </p>
 <br />
 
