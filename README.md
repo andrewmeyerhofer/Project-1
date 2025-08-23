@@ -119,7 +119,8 @@ This MySQL database will be used by osTicket to store necessary data such as use
 <br />
 
 <p>
-<img width="1397" height="732" alt="image" src="https://github.com/user-attachments/assets/bdd5ddb6-3a03-4af5-b566-006cc7a74e3e" />
+<img width="1012" height="810" alt="image" src="https://github.com/user-attachments/assets/f5bbad1d-1f8b-4bc3-92dc-782f812f3ef6" />
+
 
 </p>
 <p>
