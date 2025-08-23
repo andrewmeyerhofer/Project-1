@@ -89,7 +89,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="1397" height="732" alt="image" src="https://github.com/user-attachments/assets/bdd5ddb6-3a03-4af5-b566-006cc7a74e3e" />
+<img width="1402" height="682" alt="image" src="https://github.com/user-attachments/assets/cf15fa7a-c28b-4ccc-8c52-96e206b4a1bf" />
+
 
 </p>
 <p>
