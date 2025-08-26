@@ -69,7 +69,7 @@ Within the Windows features dialogue box, I enabled IIS with CGI. This is necess
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With IIS enabled, I was able to install the PHP Manager for IIS file. 
 </p>
 <br />
 
@@ -79,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I also installed the IIS URL Rewrite Module 2.
 </p>
 <br />
 
@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Created new PHP folder.
+Next I created a new folder in the Windows C drive for PHP. 
 </p>
 <br />
 
@@ -99,7 +99,7 @@ Created new PHP folder.
 
 </p>
 <p>
-After this step, I also installed the VC_redist file.
+I then extracted the PHP 7.3.8 files into the PHP folder. After this step, I also installed the VC_redist file (no picture necessary, it's redundant).
 </p>
 <br />
 
