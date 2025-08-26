@@ -31,7 +31,7 @@ In this project, I installed and setup the open-source ticketing system osTicket
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I started by downloading the ostTicket-Installation-Files.zip. These files were compiled based on the requirements listed on the osTicket installation steps page (link: https://docs.osticket.com/en/latest/Getting%20Started/Installation.html).
 </p>
 <br />
 
