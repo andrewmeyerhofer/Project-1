@@ -23,6 +23,7 @@ In this project, I installed and setup the open-source ticketing system osTicket
 - Acquired osTicket Installation Files (see picture 5 for list of files)
 
 
+
 <h2>Installation Walkthrough</h2>
 
 <p>
