@@ -20,7 +20,7 @@ In this project, I installed and setup the open-source ticketing system osTicket
 
 - Created a Windows 11 Virtual Machine using Microsoft Azure
 - Logged into the virtual machine using remote desktop
-- Acquired osTicket Installation Files (necessary for full installation of osTicket)
+- Acquired osTicket Installation Files (see picture 5 for list of files)
 
 
 <h2>Installation Walkthrough</h2>
