@@ -18,18 +18,12 @@ In this project, I installed and setup the open-source ticketing system osTicket
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-Use snipping tool and press copy to get images (Or go to 23 min in the setup vid)
-
-<img width="918" height="531" alt="image" src="https://github.com/user-attachments/assets/1bc26480-8af7-4d62-ac9f-e8069311b31d" />
+- Created a Windows 11 Virtual Machine using Microsoft Azure
+- Logged into the virtual machine using remote desktop
+- Acquired osTicket Installation Files (necessary for full installation of osTicket)
 
 
-<h2>Installation Steps</h2>
+<h2>Installation Walkthrough</h2>
 
 <p>
 <img width="1418" height="747" alt="image" src="https://github.com/user-attachments/assets/37c4505a-e6a3-4aaf-9e3b-d8fbbf43c0e0" />
