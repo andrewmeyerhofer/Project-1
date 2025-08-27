@@ -129,7 +129,7 @@ I then went to IIS and clicked "Run as administrator."
 
 </p>
 <p>
-Within PHP Manager... I also reloaded the IIS webserver by performing a stop and start.
+Within PHP Manager, I clicked "Register new PHP version" and pathed it to php-cgi. I also reloaded the IIS webserver by performing a stop and start.
 </p>
 <br />
 
