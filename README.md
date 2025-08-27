@@ -109,7 +109,7 @@ I then extracted the PHP 7.3.8 files into the PHP folder. After this step, I als
 
 </p>
 <p>
-This MySQL database will be used by osTicket to store necessary data such as user accounts and ticketing information. I completed all installation steps for MySQL, including the creation of a root password and setting it to standard configuration. 
+Next, I downloaded MySQL and completed all the installation steps. This included the creation of a root password and setting everything to standard configuration. MySQL will allow for the creation of a database later on, which will be used by osTicket to store necessary data such as user accounts and ticketing information.
 </p>
 <br />
 
@@ -119,7 +119,7 @@ This MySQL database will be used by osTicket to store necessary data such as use
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then went to IIS and clicked "Run as administrator."
 </p>
 <br />
 
