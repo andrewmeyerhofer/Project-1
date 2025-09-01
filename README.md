@@ -3,7 +3,6 @@
 
 </p>
 
-<p align="center">
 <h1>osTicket - Installation and Prerequisites</h1>
 In this project, I installed and setup the open-source ticketing system osTicket. All the files being installed are prerequisites to run the osTicket software. This project was done within an Azure Virtual Machine.<br />
 
