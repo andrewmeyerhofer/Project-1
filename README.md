@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 <img width="254" height="254" alt="image" src="https://github.com/user-attachments/assets/64682542-313e-4d29-b846-fd0c2cb95e80" />
 
 </p>
@@ -9,6 +8,7 @@ In this project, I installed and setup the open-source ticketing system osTicket
 
 
 <h2>Environments and Technologies Used</h2>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
