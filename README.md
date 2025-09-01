@@ -139,7 +139,7 @@ Within PHP Manager, I clicked "Register new PHP version" and pathed it to php-cg
 
 </p>
 <p>
-Within PHP Manager...
+Next, I unzipped the actual osTicket installation file.
 </p>
 <br />
 
@@ -150,7 +150,7 @@ Within PHP Manager...
 
 </p>
 <p>
-Copied the upload folder to the wwwroot folder and renamed it osTicket. Reloaded IIS again.
+I then copied the unzipped upload folder to the wwwroot folder and renamed it osTicket. I also reloaded IIS again.
 </p>
 <br />
 
@@ -161,7 +161,7 @@ Copied the upload folder to the wwwroot folder and renamed it osTicket. Reloaded
 
 </p>
 <p>
-Within PHP Manager...
+Within the left panel of IIS, I selected the dropdown for sites, then default web site, then osTicket. On the right panel of IIS, I clicked "Browse *:80 (http)" under the Browse Folder option. I was then taken to the osTicket setup page via the default browser (Microsoft Edge in this case).
 </p>
 <br />
 
@@ -172,7 +172,7 @@ Within PHP Manager...
 
 </p>
 <p>
-In the PHP manager in IIS, I enabled php_imap.dll, php_intl.dll, and php_opcache.dll. I then refreshed the web brower with the osTicket installer and it checked the remaining necessary boxes for the installer to work properly.
+Some of the recommended prerequisites for running osTicket were not met, so I needed to enable some extensions in PHP manager. Within the osTicket file in IIS, I double-clicked "PHP Manager" then enabled php_imap.dll, php_intl.dll, and php_opcache.dll. I then refreshed the web brower with the osTicket installer and it checked the remaining necessary boxes for the installer to work properly.
 
 </p>
 <br />
@@ -184,7 +184,7 @@ In the PHP manager in IIS, I enabled php_imap.dll, php_intl.dll, and php_opcache
 
 </p>
 <p>
-Here I changed the name of the ost-sampleconfig.php file within the osTicket file to ost-config.php.
+Next I went to osTicket in the wwwroot folder and went to "include." Here I changed the name of the ost-sampleconfig.php file to ost-config.php.
 </p>
 <br />
 
@@ -207,7 +207,7 @@ Within the properties of the ost-config.php file, I went to security and clicked
 
 </p>
 <p>
-I then entered some basic information for the help desk and Admin User.
+I then went back to osTicket setup webpage and clicked continue. Here I entered some basic filler information for the help desk and Admin User.
 </p>
 <br />
 
@@ -218,7 +218,7 @@ I then entered some basic information for the help desk and Admin User.
 
 </p>
 <p>
-Within PHP Manager...
+The next step was to set up the MySQL database and link it to osTicket. I double-clicked the Heidi folder within the the osTicket Installation files, then went through the setup wizard steps. 
 </p>
 <br />
 
@@ -229,7 +229,7 @@ Within PHP Manager...
 
 </p>
 <p>
-Created new database named osTicket.
+Once HeidiSQL was open, I created a new database named it osTicket.
 </p>
 <br />
 
@@ -240,7 +240,7 @@ Created new database named osTicket.
 
 </p>
 <p>
-Within PHP Manager...
+I then went to the database settings and set the username and password as "root" (so it's easy to remember), then clicked "install now."
 </p>
 <br />
 
@@ -251,6 +251,6 @@ Within PHP Manager...
 
 </p>
 <p>
-Within PHP Manager...
+Once the database was linked, the osTicket installation was complete.
 </p>
 <br />
