@@ -230,7 +230,7 @@ The next step was to set up the MySQL database and link it to osTicket. I double
 
 </p>
 <p>
-Once HeidiSQL was open, I created a new database named it osTicket.
+Once HeidiSQL was open, I created a new database and named it osTicket.
 </p>
 <br />
 
